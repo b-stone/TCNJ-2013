@@ -49,7 +49,7 @@
         }
 		case 40: { // down arrow
 		  twoDim = currentIndex; // current;
-          currentIndex = 5;
+          currentIndex = 1;
           step(0);
           break;
         }
