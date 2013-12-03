@@ -1,16 +1,12 @@
-h1. Slides for MathFest 2013 
-
-These slides were presented at MathFest 2013 in Hartford, CT during the Developments in Commutative Algebra Invited Paper Session. For a working web version see here: 
-
-"http://math.bard.edu/~bstone/mathfest2013/#1":http://math.bard.edu/~bstone/mathfest2013/#1
+h1. Slides for Colloquium at The College of New Jersey 
 
 h2. Usage
 
 h3. First Clone the Repository
 
 <pre>
-git clone https://github.com/b-stone/MathFest-2013.git
-cd MathFest-2013
+git clone https://github.com/b-stone/TCNJ-2013.git
+cd TCNJ-2013
 </pre>
 
 
